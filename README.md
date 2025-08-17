@@ -1,4 +1,8 @@
-# React + Vite
+# MOVIE LIST
+
+This is a demo website mirroring a streaming website like Netflix and so on. It was built with Vite and React framework, and  https://www.themoviedb.org/ was used the movies database.
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
